@@ -1,4 +1,4 @@
-mport random
+import random
 import re
 
 # Inputs for a normal conversation
